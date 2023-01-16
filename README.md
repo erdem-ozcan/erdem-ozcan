@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Erdem OZCAN</h1>
-<h3 align="center">A passionate Software Tester (QA)</h3>
+<h3 align="center">A passionate Software Test Engineer (QA)</h3>
 
 - 🔭 I’m currently working on **a UI Testing Project**
 
 - 🌱 I’m currently learning **Mobile Testing**
 
 - 💬 Ask me about **Java, Selenium**
-- 🥅 2023 Goals: Have more experinece in testing
+- 🥅 2023 Goals: Get more experience in Testing
 
 - 📫 How to reach me **eozcan.uk@gmail.com**
 
