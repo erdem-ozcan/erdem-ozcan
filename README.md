@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Mobile Testing**
 
 - 💬 Ask me about **Java, Selenium**
-- 
 - 🥅 2023 Goals: Have more experinece in testing
 
 - 📫 How to reach me **eozcan.uk@gmail.com**
