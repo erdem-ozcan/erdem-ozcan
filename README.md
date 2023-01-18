@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdem OZCAN</h1>
+<h1 align="center">Hi 👋 I'm Erdem OZCAN</h1>
 <h3 align="center"> Software Test Engineer (QA)</h3>
 
 - 🔭 I’m currently working on **a UI Testing Project**
