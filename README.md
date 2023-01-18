@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Erdem OZCAN</h1>
 <h3 align="center"> Software Test Engineer (QA)</h3>
-                   "Passionate for Quality"
+<h3 align="center"> "Passionate for Quality"</h3>
+
+                   
 
 - 🔭 I’m currently working on **a UI Testing Project**
 
