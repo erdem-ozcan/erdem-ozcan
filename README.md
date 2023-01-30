@@ -1,6 +1,6 @@
 <div align='center'>
 <p align="center"> 
-        <a href="https://www.linkedin.com/in/sanzhanov/"><img src=".github/workflows/MainGiff.gif" alt="header" width="100%"
+        <a href="https://www.linkedin.com/in/sanzhanov/"><img src=".workflows/MainGiff.gif" alt="header" width="100%"
    align="center"/> 
  </a></p></div>
  
