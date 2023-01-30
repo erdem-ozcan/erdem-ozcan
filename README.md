@@ -1,12 +1,12 @@
 <div align='center'>
 <p align="center"> 
-        <a href="https://www.linkedin.com/in/sanzhanov/"><img src=".workflows/MainGiff.gif" alt="header" width="100%"
+        <a href="https://www.linkedin.com/in/erdem-ozcan-a4234b219/"><img src="workflows/MainGiff.gif" alt="header" width="100%"
    align="center"/> 
  </a></p></div>
  
 <div align='center'>
 
- ### *Welcome to my GitHub profile!* <a href="https://www.linkedin.com/in/sanzhanov/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+ ### *Welcome to my GitHub profile!* <a href=https://www.linkedin.com/in/erdem-ozcan-a4234b219/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### Here I share my automated tests and other useful things :rocket:</div>
 
@@ -20,7 +20,7 @@
  
  <div align='right'>
 <p align="right"> 
-        <a href="https://www.linkedin.com/in/sanzhanov/"><img src='.github/workflows/pass-fail.gif' height=250 width="35%"
+        <a href="https://www.linkedin.com/in/erdem-ozcan-a4234b219/"><img src='workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
  </a></p></div>
  
