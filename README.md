@@ -22,7 +22,7 @@
 - 🥅 2023 Goals: Get more experience in Testing
 
 <div align='center'>
-<a href="https://linkedin.com/in/erdem-ozcan-a4234b219/"><img src='.github/workflows/github-contribution-grid-snake.svg'/>
+<a href="https://linkedin.com/in/erdem-ozcan-a4234b219/"><img src='workflows/github-contribution-grid-snake.svg'/>
 </a></div>
 
 <p  align="center">
