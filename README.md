@@ -16,10 +16,10 @@
  </a></p></div>
  
 - 👨🏼‍💻 &nbsp; Always ready to learn new Technologies/Frameworks/Languages
-- 🔭 &nbsp; Currently working on new collection of automated tests 
+- 🔭 &nbsp; Currently working on Mobile Testing
 - 🌱 &nbsp; Currently learning and practicing API
 - 💬 &nbsp; Ask me about Automation Testing
-- 🏠 &nbsp; Live in Izmir
+- 🏠 &nbsp; Lives in Turkey
 - 🥅 &nbsp; 2023 Goals: Get more experience in Testing
 
 
