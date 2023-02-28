@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi 👋 </h3>
+<h3 align="center">HI 👋 </h3>
 <h3 align="center">I'm Erdem OZCAN</h3>
 <h3 align="center"> Software Test Engineer (QA)</h3>
 <h3 align="center">"Passionate About Quality"</h3>
