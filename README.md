@@ -1,7 +1,7 @@
 
 <h3 align="center">HI 👋 </h3>
 <h3 align="center">I'm Erdem OZCAN</h3>
-<h3 align="center"> Software Test Engineer (QA)</h3>
+<h3 align="center"> Software Test Engineer </h3>
 <h3 align="center">"Passionate About Quality"</h3>
 
 <p  align="center">
@@ -16,9 +16,8 @@
  </a></p></div>
  
 - 👨🏼‍💻 &nbsp; Always ready to learn new Technologies/Frameworks/Languages
-- 🔭 &nbsp; Currently working on Mobile Testing
-- 🌱 &nbsp; Currently learning and practicing API
-- 💬 &nbsp; Ask me about Automation Testing
+- 🌱 &nbsp; Currently learning Mobile Testing
+- 💬 &nbsp; Ask me about Testing Automation 
 - 🏠 &nbsp; Living in Turkey
 - 🥅 &nbsp; 2023 Goals: Get more experience in Testing
 
