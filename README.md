@@ -15,11 +15,8 @@
    align="right"/> 
  </a></p></div>
  
-- 👨🏼‍💻 &nbsp; Always ready to learn new Technologies/Frameworks/Languages
 - 🌱 &nbsp; Currently learning Mobile Testing
-- 💬 &nbsp; Ask me about Testing Automation 
-- 🏠 &nbsp; Living in Turkey
-- 🥅 &nbsp; 2023 Goals: Get more experience in Testing
+- 💬 &nbsp; Ask me about Java,mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
 
 
 </svg></a>**Reach me at**:</h3>
