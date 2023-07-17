@@ -15,7 +15,6 @@
    align="right"/> 
  </a></p></div>
  
-- 🌱 &nbsp; Currently learning Mobile Testing
 - 💬 &nbsp; Ask me about Java,mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
 
 
