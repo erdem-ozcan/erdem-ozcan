@@ -14,8 +14,9 @@
         <a href="https://www.linkedin.com/in/erdem-ozcan/"><img src='workflows/pass-fail.gif' height=250 width="35%"
    align="right"/> 
  </a></p></div>
- 
-- 💬 &nbsp; Ask me about Java,mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
+
+ - 🌱 I’m currently learning Cypress
+ - 💬 &nbsp; Ask me about Java,mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
 
 
 </svg></a>**Reach me at**:</h3>
