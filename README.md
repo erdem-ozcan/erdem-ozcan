@@ -15,8 +15,8 @@
    align="right"/> 
  </a></p></div>
 
- - 🌱 I’m currently learning Cypress
- - 💬 &nbsp; Ask me about Java,mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
+ - 🌱        Currently learning **Cypress**
+ - 💬 &nbsp; Ask me about Java, mySQL, HTML, CSS, Selenium, JUnit, TestNG, Cucumber, Postman, JDBC, Jira - Jira XRay
 
 
 </svg></a>**Reach me at**:</h3>
